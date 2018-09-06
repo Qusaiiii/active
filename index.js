@@ -2,9 +2,9 @@ const yourID = "324672376455299074"; //Instructions on how to get this: https://
 const setupCMD = "!am"
 let initialMessage = `**اختر القسم اليعجبك بالضغط على ري اكشن**
 💻 Fortnite | فروتنايت
-🕹 :two: Anime & Games | انمي
-🥇 :three: Clans | كلانات
-
+🕹 Anime & Games | انمي
+🥇 Clans | كلانات
+`;
 
 const roles = ["Fortnite","Anime & Games","Clans"];
 const reactions = ["💻","🕹","🥇"];
