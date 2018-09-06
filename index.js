@@ -1,9 +1,6 @@
 const yourID = "324672376455299074"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!am"
 let initialMessage = `**اختر القسم اليعجبك بالضغط على ري اكشن**
-💻 Fortnite | فروتنايت
-🕹 Anime & Games | انمي
-🥇 Clans | كلانات
 `;
 
 const roles = ["Fortnite","Anime & Games","Clans"];
