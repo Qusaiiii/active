@@ -1,8 +1,13 @@
 const yourID = "324672376455299074"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!am"
-let initialMessage = `**لتفعيل اضغط على ري اكشن**`;
-const roles = ["Member"];
-const reactions = ["💻"];
+let initialMessage = `**اختر القسم اليعجبك بالضغط على ري اكشن**
+💻 Fortnite | فروتنايت
+🕹 :two: Anime & Games | انمي
+🥇 :three: Clans | كلانات
+
+
+const roles = ["Fortnite","Anime & Games","Clans"];
+const reactions = ["💻","🕹","🥇"];
  /*You'll have to set this yourself; read more
                      here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token*/
 
