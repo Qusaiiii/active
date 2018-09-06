@@ -3,7 +3,7 @@ const setupCMD = "!am"
 let initialMessage = `**لتفعيل اضغط على ري اكشن**`;
 const roles = ["Member"];
 const reactions = ["💻"];
-const botToken = ""; /*You'll have to set this yourself; read more
+ /*You'll have to set this yourself; read more
                      here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token*/
 
 //Load up the bot...
